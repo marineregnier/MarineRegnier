@@ -73,3 +73,4 @@ Guerres       | Pertes militaires | Pertes civiles      | Pertes totales
 
 #  _**E N &nbsp; S A V O I R &nbsp; P L U S &nbsp; S U R &nbsp; L E &nbsp; R O Y A U M E - U N I**_
 - [La culture britannique](https://github.com/marineregnier/RoyaumeUni/wiki/CULTURE)
+- [home](./index.md)
