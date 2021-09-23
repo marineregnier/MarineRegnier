@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# **B I E N V E N U E !**
 
-You can use the [editor on GitHub](https://github.com/marineregnier/MarineRegnier/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+&nbsp;
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## **P R E S E N T A T I O N**
 
-### Markdown
+Ce site a pour objectif de présenter le Royaume-Uni, qui se compose de l'Angleterre, l'Ecosse, le Pays de Galles et enfin l'Irlande du Nord. Le Royaume-Uni, de son nom complet _Royaume-Uni de Grande Bretagne et d'Irlande du Nord_, est un pays d'Europe. Le Royaume-Uni, tel qu'on le connait aujourd'hui, a été finalisé en 1922.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&nbsp;
 
-```markdown
-Syntax highlighted code block
+## **Q U E L Q U E S &nbsp; D E F I N I T I O N S**
 
-# Header 1
-## Header 2
-### Header 3
+Avant d'explorer ce site, il faut prendre en compte les différentes terminologies qui sont souvent utilisées de manière maladroite. Le Royaume-Uni se compose des quatre pays précédemment cités, tandis que la Grande Bretagne fait référence à l'île principale où se trouve l'Angleterre, l'Ecosse et le Pays de Galles, l'Irlande du Nord se situant sur l'île voisine, ~elle ne fait pas partie de la Grande Bretagne~. Ci-dessous, vous pouvez retrouver une carte qui illustre cette distinction à prendre en compte.
 
-- Bulleted
-- List
+&nbsp;
 
-1. Numbered
-2. List
+-----------------------------
+&nbsp;
 
-**Bold** and _Italic_ and `Code` text
+![](http://image.noelshack.com/fichiers/2021/37/5/1631895543-carte.png)
 
-[Link](url) and ![Image](src)
-```
+&nbsp;
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-----------------------------
 
-### Jekyll Themes
+&nbsp;
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marineregnier/MarineRegnier/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## **M E N U**
 
-### Support or Contact
+Si vous souhaitez en apprendre davantage sur le Royaume-Uni, je vous invite à cliquer sur les liens ci-dessous :
+- [Quelques dates de l'histoire britannique](https://github.com/marineregnier/RoyaumeUni/wiki/HISTOIRE)
++ [La culture britannique](https://github.com/marineregnier/RoyaumeUni/wiki/CULTURE)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+&nbsp;
+
+**Bonne visite !**
