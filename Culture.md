@@ -32,7 +32,7 @@ A S P E C T S &nbsp; T Y P I Q U E S
 
 ### **C I N E M A**
 
-****Réalisateurs****
+**Réalisateurs**
 
 - Charlie Chaplin
 - Alfred Hitchcock
@@ -40,7 +40,7 @@ A S P E C T S &nbsp; T Y P I Q U E S
 - Michael Apted
 - Stephen Daldry
 
-****Acteurs****
+**Acteurs**
 
 - Alan Rickman
 - Hugh Grant
@@ -48,7 +48,7 @@ A S P E C T S &nbsp; T Y P I Q U E S
 - Laurence Olivier
 - Tom Hardy
 
-****Actrices****
+**Actrices**
 
 - Emma Thompson
 - Helena Boham Carter
