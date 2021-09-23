@@ -27,11 +27,9 @@ Avant d'explorer ce site, il faut prendre en compte les différentes terminologi
 
 &nbsp;
 
-## **M E N U**
-
-Si vous souhaitez en apprendre davantage sur le Royaume-Uni, je vous invite à cliquer sur les liens ci-dessous :
-- [Quelques dates de l'histoire britannique](https://marineregnier.github.io/Royaume-Uni/Histoire)
-+ [La culture britannique](https://marineregnier.github.io/Royaume-Uni/Culture)
+#  _**E N &nbsp; S A V O I R &nbsp; P L U S &nbsp; S U R &nbsp; L E &nbsp; R O Y A U M E - U N I**_
+- [La culture britannique](https://marineregnier.github.io/Royaume-Uni/Culture)
+- [Accueil](./index.md)
 
 &nbsp;
 
