@@ -5,10 +5,15 @@
 ## A R T I S T E S
 
 - **`Musicien(ne)s`** : David Bowie, The Beatles, Amy Whinehouse, The Rolling Stones
+
 - **`Ecrivain(e)s`** : Charles Dickens, J.R.R. Tolkin, Virginia Woolf, Emily Brontë, Agatha Christie
+
 - **`Peintres`** : John Cons, John Everett Millais, David Hockney, Joseph Mallord William Turner
+
 - **`Réalisateurs/trices`** : Charlie Chaplin, Alfred Hitchcock, Tomm Hooper
+
 - **`Acteurs`** : Alan Rickman, Hugh Grant, Sean Connery, Laurence Olivier, Tom Hardy
+
 - **`Actrices`** : Emma Thompson, Helena Boham Carter, Keira Knightley, Kate Winslet, Audrey Hepburn
 
 &nbsp;
@@ -16,7 +21,9 @@
 ## **T R A D I T I O N S**
 
 - **`Tea Time`** : le tea time est un moment nationalement connu au Royaume-Uni, il s'agit de la période entre 15h et 16h où l'on peut se retrouver pour prendre le thé.
+
 - **`Christmas Crackers`** : ce sont de petites papillotes en carton que chacun ouvre lors du Réveillon de Noël et dans lesquels se trouvent des jeux pour passer la soirée.
+
 - **`Boxing Day`** : le 26 Décembre, le lendemain de Noël, est un jour férié au Royaume-Uni car avant les servants des famille anglaise fêtaient Noël à ce moment là. 
 
 &nbsp;
@@ -24,7 +31,9 @@
 ## **N O U R R I T U R E &nbsp; T Y P I Q U E**
 
 - **`English breakfast`** qui est le petit-déjeuner traditionnel
+
 - **`Fish & Chips`** composé de frites et de poisson frit
+
 - **`Cottage pie`** qui est une tourte à la viande avec un croute faite en purée de pomme de terre
 
 <pre>
