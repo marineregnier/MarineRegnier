@@ -70,9 +70,3 @@ Guerres       | Pertes militaires | Pertes civiles      | Pertes totales
 &nbsp;
 
 > ### _"I know that women, once convinced that they are doing what is right, that their rebellion is just, will go on, no matter what the difficulties, no matter what the dangers, so long as there is a woman alive to hold up the flag of rebellion" - Emmeline Pankhurst à propos du mouvement des Suffragettes désirant le droit de vote pour les femmes britanniques_
-
-&nbsp;
-
-#  _**E N &nbsp; S A V O I R &nbsp; P L U S &nbsp; S U R &nbsp; L E &nbsp; R O Y A U M E - U N I**_
-- [La culture britannique](https://marineregnier.github.io/Royaume-Uni/Culture)
-- [Accueil](./index.md)
