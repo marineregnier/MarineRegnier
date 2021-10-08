@@ -43,4 +43,3 @@ Recette de l'English Breakfast
 &nbsp; - Ajouter les œufs dans la poêle avec les champignons et mélanger
 &nbsp; - Réchauffer les haricots au micro-onde et beurrer les tranches de pain
 &nbsp; - Placer les haricots sur le pain, ajouter le reste à côté
-</p>
