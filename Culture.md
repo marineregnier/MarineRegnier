@@ -28,7 +28,7 @@
 - **`Cottage pie`** qui est une tourte à la viande avec un croute faite en purée de pomme de terre
 
 <pre>
-Recette de l'English Breakfast
+> Recette de l'English Breakfast
 - Ingrédients : 
 &nbsp; - 2 oeufs 
 &nbsp; - 2 tranches de pain de mie
@@ -44,4 +44,3 @@ Recette de l'English Breakfast
 &nbsp; - Réchauffer les haricots au micro-onde et beurrer les tranches de pain
 &nbsp; - Placer les haricots sur le pain, ajouter le reste à côté
 
-salut
