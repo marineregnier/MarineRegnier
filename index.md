@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# **B I E N V E N U E &nbsp; ! :uk: ** :gb:
+# **B I E N V E N U E &nbsp; !** 🇬🇧
 
 &nbsp;
 
