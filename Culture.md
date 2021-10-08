@@ -40,18 +40,18 @@
 
 <pre>
 Recette de l'English Breakfast
-&nbsp;&nbsp;- Ingrédients : 
-&nbsp; &nbsp; &nbsp;- 2 oeufs 
-&nbsp; &nbsp; &nbsp;- 2 tranches de pain de mie
-&nbsp; &nbsp; &nbsp;- 150g de champignons
-&nbsp; &nbsp; &nbsp;- 100g d'haricots blancs à la tomate
-&nbsp; &nbsp; &nbsp;- 2 tranches de bacin
-&nbsp; &nbsp; &nbsp;- 25g de beurre
+&nbsp;- Ingrédients : 
+&nbsp; &nbsp;- 2 oeufs 
+&nbsp; &nbsp;- 2 tranches de pain de mie
+&nbsp; &nbsp;- 150g de champignons
+&nbsp; &nbsp;- 100g d'haricots blancs à la tomate
+&nbsp; &nbsp;- 2 tranches de bacin
+&nbsp; &nbsp;- 25g de beurre
 
-&nbsp; &nbsp;- Etapes : 
-&nbsp; &nbsp; &nbsp;- Couper les champignons et les faire revenir avec un peu de beurre
-&nbsp; &nbsp; &nbsp;- Faire cuire le bacon dans une autre poêle et mettre le pain à toaster
-&nbsp; &nbsp; &nbsp;- Ajouter les œufs dans la poêle avec les champignons et mélanger
-&nbsp; &nbsp; &nbsp;- Réchauffer les haricots au micro-onde et beurrer les tranches de pain
-&nbsp; &nbsp; &nbsp;- Placer les haricots sur le pain, ajouter le reste à côté
+&nbsp;- Etapes : 
+&nbsp; &nbsp;- Couper les champignons et les faire revenir avec un peu de beurre
+&nbsp; &nbsp;- Faire cuire le bacon dans une autre poêle et mettre le pain à toaster
+&nbsp; &nbsp;- Ajouter les œufs dans la poêle avec les champignons et mélanger
+&nbsp; &nbsp;- Réchauffer les haricots au micro-onde et beurrer les tranches de pain
+&nbsp; &nbsp;- Placer les haricots sur le pain, ajouter le reste à côté
 
