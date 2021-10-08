@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# **C U L T U R E**
+# 📍 **C U L T U R E**
 
 &nbsp;
 
