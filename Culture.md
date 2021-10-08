@@ -1,6 +1,10 @@
 # **<ins>LE ROYAUME-UNI : LES GRANDES LIGNES</ins>**
 
+&nbsp;
+
 [Accueil](./index.md) | [Quelques dates de l'histoire britannique](https://marineregnier.github.io/Royaume-Uni/Histoire) | [La culture britannique](https://marineregnier.github.io/Royaume-Uni/Culture)
+
+&nbsp;
 
 # **C U L T U R E**
 
@@ -37,6 +41,8 @@
 - **`Fish & Chips`** composé de frites et de poisson frit
 
 - **`Cottage pie`** qui est une tourte à la viande avec un croute faite en purée de pomme de terre
+
+&nbsp;
 
 <pre>
 Recette de l'English Breakfast
