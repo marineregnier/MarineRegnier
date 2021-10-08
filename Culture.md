@@ -37,7 +37,7 @@
 - **`Cottage pie`** qui est une tourte à la viande avec un croute faite en purée de pomme de terre
 
 <pre>
-&nbsp; Recette de l'English Breakfast
+Recette de l'English Breakfast
 &nbsp;&nbsp;- Ingrédients : 
 &nbsp; &nbsp; &nbsp;- 2 oeufs 
 &nbsp; &nbsp; &nbsp;- 2 tranches de pain de mie
