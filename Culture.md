@@ -28,19 +28,19 @@
 - **`Cottage pie`** qui est une tourte à la viande avec un croute faite en purée de pomme de terre
 
 <pre>
-> Recette de l'English Breakfast
-- Ingrédients : 
-&nbsp; - 2 oeufs 
-&nbsp; - 2 tranches de pain de mie
-&nbsp; - 150g de champignons
-&nbsp; - 100g d'haricots blancs à la tomate
-&nbsp; - 2 tranches de bacin
-&nbsp; - 25g de beurre
+&nbsp; Recette de l'English Breakfast
+&nbsp;&nbsp;- Ingrédients : 
+&nbsp; &nbsp; &nbsp;- 2 oeufs 
+&nbsp; &nbsp; &nbsp;- 2 tranches de pain de mie
+&nbsp; &nbsp; &nbsp;- 150g de champignons
+&nbsp; &nbsp; &nbsp;- 100g d'haricots blancs à la tomate
+&nbsp; &nbsp; &nbsp;- 2 tranches de bacin
+&nbsp; &nbsp; &nbsp;- 25g de beurre
 
-- Etapes : 
-&nbsp; - Couper les champignons et les faire revenir avec un peu de beurre
-&nbsp; - Faire cuire le bacon dans une autre poêle et mettre le pain à toaster
-&nbsp; - Ajouter les œufs dans la poêle avec les champignons et mélanger
-&nbsp; - Réchauffer les haricots au micro-onde et beurrer les tranches de pain
-&nbsp; - Placer les haricots sur le pain, ajouter le reste à côté
+&nbsp; &nbsp;- Etapes : 
+&nbsp; &nbsp; &nbsp;- Couper les champignons et les faire revenir avec un peu de beurre
+&nbsp; &nbsp; &nbsp;- Faire cuire le bacon dans une autre poêle et mettre le pain à toaster
+&nbsp; &nbsp; &nbsp;- Ajouter les œufs dans la poêle avec les champignons et mélanger
+&nbsp; &nbsp; &nbsp;- Réchauffer les haricots au micro-onde et beurrer les tranches de pain
+&nbsp; &nbsp; &nbsp;- Placer les haricots sur le pain, ajouter le reste à côté
 
