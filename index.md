@@ -34,4 +34,4 @@ Avant d'explorer ce site, il faut prendre en compte les différentes terminologi
 
 &nbsp;
 
-**Bonne visite !**
+## **Bonne visite !**
