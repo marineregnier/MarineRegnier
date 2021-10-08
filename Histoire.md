@@ -54,10 +54,10 @@
 
 &nbsp;
 
-Guerres       | Pertes militaires | Pertes civiles      | Pertes totales
-------------- | ----------------- | ------------------- | -------------
-1ère GM       |      885 138      |      109 000        |    994 138
-2de GM        |      326 000      |      62 000         |    388 000
+Guerres                    | Pertes militaires | Pertes civiles      | Pertes totales
+-------------------------- | ----------------- | ------------------- | -------------
+1ère Guerre Mondiale       |      885 138      |      109 000        |    994 138
+2de Guerre Mondiale        |      326 000      |      62 000         |    388 000
 
 &nbsp;
 
