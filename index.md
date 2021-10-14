@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[Accueil](./index.md) | [L'histoire britannique](https://marineregnier.github.io/Royaume-Uni/Histoire) | [La culture britannique](https://marineregnier.github.io/Royaume-Uni/Culture)
+[Accueil](./index.md) | [L'histoire britannique](./Histoire) | [La culture britannique](./Culture)
 
 &nbsp;
 
