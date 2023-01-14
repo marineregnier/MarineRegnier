@@ -1,4 +1,4 @@
-![](http://image.noelshack.com/fichiers/2023/02/6/1673719419-flag-of-the-united-kingdom-3-5-svg.png) [ENGLISH](https://marineregnier.github.io/Royaume-Uni/en)
+&#127468;&#127463; [ENGLISH](https://marineregnier.github.io/Royaume-Uni/en)
 
 # **<ins>ROYAUME-UNI : LES GRANDES LIGNES</ins>**
 
