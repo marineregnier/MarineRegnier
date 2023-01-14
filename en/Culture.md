@@ -1,8 +1,8 @@
-# **<ins>LE ROYAUME-UNI : LES GRANDES LIGNES</ins>**
+# **<ins>UNITED KINGDOM : THE MAIN POINTS</ins>**
 
 &nbsp;
 
-[Accueil](./index.md) | [L'histoire britannique](./Histoire) | [La culture britannique](./Culture)
+[Home](./en/index.md) | [British history](./en/Histoire) | [British culture](./en/Culture)
 
 &nbsp;
 
