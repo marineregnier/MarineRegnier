@@ -1,10 +1,11 @@
+» [ENGLISH](https://marineregnier.github.io/Royaume-Uni/en/Histoire)
+
 # **<ins>LE ROYAUME-UNI : LES GRANDES LIGNES</ins>**
 
 &nbsp;
 
 [Accueil](./index.md) | [L'histoire britannique](./Histoire) | [La culture britannique](./Culture)
 
-[ENGLISH](https://marineregnier.github.io/Royaume-Uni/en/Histoire)
 
 &nbsp;
 
