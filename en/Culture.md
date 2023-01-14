@@ -1,4 +1,4 @@
-# **<ins>UNITED KINGDOM : THE MAIN POINTS</ins>**
+# **<ins>UNITED KINGDOM: THE MAIN POINTS</ins>**
 
 &nbsp;
 
