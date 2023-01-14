@@ -79,4 +79,4 @@ Wars                       | Military casualties | Civil losses      | Total los
 
 &nbsp;
 
-> ### _"Je sais que les femmes, une fois convaincues qu'elles font ce qui est juste, que leur rébellion est juste, continueront, quels que soient les difficultés, quels que soient les dangers, tant qu'il y aura une femme vivante pour brandir le drapeau de la rébellion" - Emmeline Pankhurst à propos du mouvement des Suffragettes désirant le droit de vote pour les femmes britanniques_
+> ### _"I know that women, once convinced that they are doing the right thing, that their rebellion is right, will go on, whatever the difficulties, whatever the dangers, as long as there is a woman alive to wave the flag of rebellion" - Emmeline Pankhurst on the Suffragette movement seeking voting rights for British women_
