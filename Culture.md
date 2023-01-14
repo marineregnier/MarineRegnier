@@ -1,4 +1,4 @@
-🇬🇧 [EN](https://marineregnier.github.io/Royaume-Uni/en/Culture)
+» [ENGLISH](https://marineregnier.github.io/Royaume-Uni/en/Culture)
 
 # **<ins>LE ROYAUME-UNI : LES GRANDES LIGNES</ins>**
 
