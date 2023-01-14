@@ -1,10 +1,11 @@
+![](http://image.noelshack.com/fichiers/2023/02/6/1673718395-royaume-uni.png) [ENGLISH](https://marineregnier.github.io/Royaume-Uni/en)
+
 # **<ins>ROYAUME-UNI : LES GRANDES LIGNES</ins>**
 
 &nbsp;
 
 [Accueil](./index.md) | [L'histoire britannique](./Histoire) | [La culture britannique](./Culture)
 
-[ENGLISH](https://marineregnier.github.io/Royaume-Uni/en)
 
 &nbsp;
 
