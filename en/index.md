@@ -8,19 +8,20 @@
 
 &nbsp;
 
-# 📍 **A C C U E I L**
+# 📍 **HOME**
 
 &nbsp;
 
 ## **P R E S E N T A T I O N**
 
-Ce site a pour objectif de présenter le Royaume-Uni, qui se compose de l'Angleterre, l'Ecosse, le Pays de Galles et enfin l'Irlande du Nord. Le Royaume-Uni, de son nom complet _Royaume-Uni de Grande Bretagne et d'Irlande du Nord_, est un pays d'Europe. Le Royaume-Uni, tel qu'on le connait aujourd'hui, a été finalisé en 1922.
+This site aims to introduce the United Kingdom, which consists of England, Scotland, Wales and Northern Ireland. The United Kingdom, whose full name is the _United Kingdom of Great Britain and Northern Ireland_, is a country in Europe. The United Kingdom, as we know it today, was finalised in 1922.
 
 &nbsp;
 
-## **Q U E L Q U E S &nbsp; D E F I N I T I O N S**
+## **S O M E &nbsp; D E F I N I T I O N S**
 
-Avant d'explorer ce site, il faut prendre en compte les différentes terminologies qui sont souvent utilisées de manière maladroite. Le Royaume-Uni se compose des quatre pays précédemment cités, tandis que la Grande Bretagne fait référence à l'île principale où se trouve l'Angleterre, l'Ecosse et le Pays de Galles, l'Irlande du Nord se situant sur l'île voisine, ~~elle ne fait pas partie de la Grande Bretagne~~. Ci-dessous, vous pouvez retrouver une carte qui illustre cette distinction à prendre en compte.
+Before exploring this site, it is important to consider the different terminology that is often used awkwardly. The United Kingdom is made up of the four countries mentioned above, while Great Britain refers to the main island where England, Scotland and Wales are located, with Northern Ireland being located on the neighbouring island, ~~it is not part of Great Britain~~. Below you can find a map which illustrates this distinction to be taken into account.
+
 
 &nbsp;
 
@@ -36,6 +37,6 @@ Avant d'explorer ce site, il faut prendre en compte les différentes terminologi
 
 &nbsp;
 
-## **Bonne visite !**
+## **Enjoy your visit !**
 
 &nbsp;
