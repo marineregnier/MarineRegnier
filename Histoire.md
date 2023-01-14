@@ -4,6 +4,8 @@
 
 [Accueil](./index.md) | [L'histoire britannique](./Histoire) | [La culture britannique](./Culture)
 
+[ENGLISH](https://marineregnier.github.io/Royaume-Uni/en/Histoire)
+
 &nbsp;
 
 # 📍 **H I S T O I R E**
