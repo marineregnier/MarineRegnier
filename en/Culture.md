@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[Home](./en/index.md) | [British history](./en/Histoire) | [British culture](./en/Culture)
+[Home](./en/index.md) | [British history](./Histoire) | [British culture](./Culture)
 
 [FRANCAIS](https://marineregnier.github.io/Royaume-Uni/Culture)
 
